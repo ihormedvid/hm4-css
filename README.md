@@ -1,6 +1,6 @@
 # HM4-CSS
 ## Task 1
-Thttp://ihormedvid.github.io/hm4-css/task1/index.html
+http://ihormedvid.github.io/hm4-css/task1/index.html
 ## Task 2
 http://ihormedvid.github.io/hm4-css/task2/index.html
 ***
