@@ -77,8 +77,8 @@ a.button {
   background-position: 0% 0%;
 }
 a.button:hover {
-  background-position: 0px 3px;
+  background-position: 0px -38px;
 }
 a.button:active {
-  background-position: 0px 3px;
+  background-position: 0px -76px;
 }
